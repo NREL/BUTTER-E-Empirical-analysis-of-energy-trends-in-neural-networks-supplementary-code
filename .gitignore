@@ -1,0 +1,14 @@
+data_inputs/*
+!data_inputs/.empty
+data_outputs/*
+!data_outputs/.empty
+data_artifacts/*
+!data_artifacts/.empty
+
+!data_inputs/amd_ryzen_processors.csv
+!data_inputs/NVIDIA_GPU_Processors_curated.csv
+
+__pycache__
+.ipynb_checkpoints
+
+.DS_Store
